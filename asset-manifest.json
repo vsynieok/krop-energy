@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krop-energy/static/css/main.e37ec1d8.css",
+    "main.js": "/krop-energy/static/js/main.db5065f4.js",
+    "static/js/787.0f546e51.chunk.js": "/krop-energy/static/js/787.0f546e51.chunk.js",
+    "index.html": "/krop-energy/index.html",
+    "main.e37ec1d8.css.map": "/krop-energy/static/css/main.e37ec1d8.css.map",
+    "main.db5065f4.js.map": "/krop-energy/static/js/main.db5065f4.js.map",
+    "787.0f546e51.chunk.js.map": "/krop-energy/static/js/787.0f546e51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e37ec1d8.css",
+    "static/js/main.db5065f4.js"
+  ]
+}
